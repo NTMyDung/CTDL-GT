@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681574841 source:c:\users\admin\documents\khoaso\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

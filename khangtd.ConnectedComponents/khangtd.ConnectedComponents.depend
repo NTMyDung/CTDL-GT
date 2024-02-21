@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1687104294 source:c:\users\admin\documents\khangtd.connectedcomponents\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<algorithm>
+

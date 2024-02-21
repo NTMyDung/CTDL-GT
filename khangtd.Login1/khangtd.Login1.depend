@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686156205 source:c:\users\admin\documents\khangtd.login1\main.cpp
+	<iostream>
+	<map>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687082202 source:c:\users\admin\documents\timduongbfs2\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+

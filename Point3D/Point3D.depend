@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681317460 source:c:\users\admin\documents\point3d\main.cpp
+	<iostream>
+	<vector>
+

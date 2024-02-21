@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680540710 source:c:\users\admin\documents\point 2d\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
