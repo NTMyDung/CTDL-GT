@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680533875 source:c:\users\admin\documents\vw05p_enrichement\main.cpp
+	<iostream>
+	<vector>
+

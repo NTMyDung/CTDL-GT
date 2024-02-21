@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1680596147 source:c:\users\admin\documents\vq44_flowers\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

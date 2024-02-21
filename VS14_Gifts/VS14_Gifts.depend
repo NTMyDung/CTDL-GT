@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1680539059 source:c:\users\admin\documents\vs14_gifts\main.cpp
+	<iostream>
+	<vector>
+
